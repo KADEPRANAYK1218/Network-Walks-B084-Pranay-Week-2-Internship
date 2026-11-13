@@ -261,7 +261,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ![Zenmap quick scan](images/pm5_quick.png)
 
 **Figure 18: Zenmap network topology with legend**
-![Zenmap topology](images/pm5_topology.png)
+
+<img width="621" height="494" alt="image" src="https://github.com/user-attachments/assets/fc5ce429-e7a4-453a-8cc0-3ae367298840" />
+
 
 ---
 
