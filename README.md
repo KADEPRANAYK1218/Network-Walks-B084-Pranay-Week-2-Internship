@@ -255,7 +255,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ![ipconfig part 2](images/pm5_cmd2.png)
 
 **Figure 16: Zenmap Ping scan of 192.168.1.0/24**
-![Zenmap ping scan](images/pm5_ping.png)
+
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/7dfb96e8-7487-4ee8-a992-c7a20deb5e34" />
+
 
 **Figure 17: Zenmap Quick scan of 192.168.1.0/24 showing open ports**
 
