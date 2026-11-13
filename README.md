@@ -211,7 +211,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 
 
 **Figure 5: Nslookup resolving networkwalks.com to 192.232.216.135**
-![Nslookup](images/pm1_nslookup.png)
+
+<img width="1600" height="185" alt="image" src="https://github.com/user-attachments/assets/efd58dd8-61b0-4e5b-ac5d-3b0b7a03bb17" />
+
 
 **Figure 6: Curl -I HTTP response headers**
 ![Curl](images/pm1_curl.png)
