@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Complete Week 2 Internship Tasks: Footprinting and Scanning"
-git remote add origin https://github.com/KADEPRANAYK1218/Network-Walks-B084-Pranay-Week-2-Internship.git
-git branch -M main
-git push -u origin main --force
