@@ -213,7 +213,8 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ![Curl](images/pm1_curl.png)
 
 **Figure 7: Wafw00f detecting ModSecurity (SpiderLabs)**
-![Wafw00f](images/pm1_wafw00f.png)
+
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/e504e6a2-5585-4f21-ab39-611c8b185d3d" />
 
 **Figure 8: DNSRecon DNS enumeration**
 
