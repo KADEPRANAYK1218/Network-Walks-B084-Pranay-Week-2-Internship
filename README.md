@@ -216,7 +216,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 
 
 **Figure 6: Curl -I HTTP response headers**
-![Curl](images/pm1_curl.png)
+
+<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/1a8f5563-3a94-43c3-bb00-db6d47a7371a" />
+
 
 **Figure 7: Wafw00f detecting ModSecurity (SpiderLabs)**
 
