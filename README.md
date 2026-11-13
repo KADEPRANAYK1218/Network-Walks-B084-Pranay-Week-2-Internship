@@ -202,6 +202,8 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 
 **Figure 3: WHOIS lookup of networkwalks.com (part 3 of 3)**
 
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/6ec36c29-2697-477c-9f8d-981526e19f0a" />
+
 
 **Figure 4: WhatWeb technology fingerprint of networkwalks.com**
 
