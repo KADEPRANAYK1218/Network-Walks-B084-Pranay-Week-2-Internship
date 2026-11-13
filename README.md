@@ -204,7 +204,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 
 
 **Figure 4: WhatWeb technology fingerprint of networkwalks.com**
-![WhatWeb](images/pm1_whatweb.png)
+
+<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/f81da988-70fb-444c-ac0d-16dc0b580623" />
+
 
 **Figure 5: Nslookup resolving networkwalks.com to 192.232.216.135**
 ![Nslookup](images/pm1_nslookup.png)
