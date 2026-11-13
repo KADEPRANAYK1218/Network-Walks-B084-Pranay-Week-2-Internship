@@ -232,7 +232,10 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ### 8.2 W2-PM4: OSINT with theHarvester
 
 **Figure 9: theHarvester help menu (`theHarvester -h`)**
-![theHarvester help](images/pm4_help.png)
+!
+
+<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/68f3e093-b643-4ae5-9e33-fb2d637fa159" />
+
 
 **Figure 10: theHarvester search on microsoft.com with source baidu and limit 1000**
 ![theHarvester baidu](images/pm4_baidu.png)
