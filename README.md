@@ -243,7 +243,10 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 <img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/d85bbead-87b1-4951-8b0f-2038b84bd779" />
 
 **Figure 11: theHarvester search on microsoft.com with limit 50 and all sources (start)**
-![theHarvester all sources 1](images/pm4_all1.png)
+
+
+<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/d7fe5dab-5439-4e75-8257-7b9e0f01ce2a" />
+
 
 **Figure 12: theHarvester all-source run (sources being queried, part 2)**
 ![theHarvester all sources 2](images/pm4_all2.png)
