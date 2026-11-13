@@ -249,7 +249,10 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 
 
 **Figure 12: theHarvester all-source run (sources being queried, part 2)**
-![theHarvester all sources 2](images/pm4_all2.png)
+
+
+<img width="1600" height="743" alt="image" src="https://github.com/user-attachments/assets/6876d23a-751a-4165-914d-5ae8566be8ed" />
+
 
 **Figure 13: theHarvester all-source run (sources being queried, part 3)**
 
