@@ -258,7 +258,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ![Zenmap ping scan](images/pm5_ping.png)
 
 **Figure 17: Zenmap Quick scan of 192.168.1.0/24 showing open ports**
-![Zenmap quick scan](images/pm5_quick.png)
+
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/4671528b-c96b-46e0-9134-c2574f6222be" />
+
 
 **Figure 18: Zenmap network topology with legend**
 
