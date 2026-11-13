@@ -249,7 +249,11 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ![theHarvester all sources 2](images/pm4_all2.png)
 
 **Figure 13: theHarvester all-source run (sources being queried, part 3)**
-![theHarvester all sources 3](images/pm4_all3.png)
+
+
+
+<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/61a88536-f56f-492a-9a6e-f11b359fc769" />
+
 
 ### 8.3 W2-PM5: Network scanning with Zenmap
 
