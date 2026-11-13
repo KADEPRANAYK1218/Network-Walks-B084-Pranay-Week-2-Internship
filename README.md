@@ -191,7 +191,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ### 8.1 W2-PM1: Footprinting with Kali Linux tools
 
 **Figure 1: WHOIS lookup of networkwalks.com (part 1 of 3)**
-![WHOIS part 1](images/pm1_whois1.png)
+
+<img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/46fc19be-ce31-4d0e-8714-46cb3b29968a" />
+
 
 **Figure 2: WHOIS lookup of networkwalks.com (part 2 of 3)**
 ![WHOIS part 2](images/pm1_whois2.png)
