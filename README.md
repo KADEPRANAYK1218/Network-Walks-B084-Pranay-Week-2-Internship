@@ -216,7 +216,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ![Wafw00f](images/pm1_wafw00f.png)
 
 **Figure 8: DNSRecon DNS enumeration**
-![DNSRecon](images/pm1_dnsrecon.png)
+
+<img width="1600" height="744" alt="image" src="https://github.com/user-attachments/assets/b34b1ba2-9b4e-426b-9e95-58746baf9157" />
+
 
 ### 8.2 W2-PM4: OSINT with theHarvester
 
