@@ -249,7 +249,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ### 8.3 W2-PM5: Network scanning with Zenmap
 
 **Figure 14: ipconfig /all on Windows (part 1), MAC addresses blurred for privacy**
-![ipconfig part 1](images/pm5_cmd1.png)
+
+<img width="1475" height="752" alt="image" src="https://github.com/user-attachments/assets/68fa6743-39e7-4b15-a933-a9a750f6150f" />
+
 
 **Figure 15: ipconfig /all on Windows (part 2), IP and MAC addresses blurred for privacy**
 
