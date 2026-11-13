@@ -1,0 +1,22 @@
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~]
+└─$ wafw00f networkwalks.com                                   
+
+                   ______
+                  /      \                                                                                                                                                                                                                 
+                 (  Woof! )                                                                                                                                                                                                                
+                  \  ____/                      )                                                                                                                                                                                          
+                  ,,                           ) (_                                                                                                                                                                                        
+             .-. -    _______                 ( |__|                                                                                                                                                                                       
+            ()``; |==|_______)                .)|__|                                                                                                                                                                                       
+            / ('        /|\                  (  |__|                                                                                                                                                                                       
+        (  /  )        / | \                  . |__|                                                                                                                                                                                       
+         \(_)_))      /  |  \                   |__|                                                                                                                                                                                       
+
+                    ~ WAFW00F : v2.4.2 ~
+    The Web Application Firewall Fingerprinting Toolkit                                                                                                                                                                                    
+                                                                                                                                                                                                                                           
+[*] Checking https://networkwalks.com
+[+] The site https://networkwalks.com is behind ModSecurity (SpiderLabs) WAF.
+[~] Number of requests: 2
+
