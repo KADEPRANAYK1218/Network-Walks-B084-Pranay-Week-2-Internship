@@ -252,7 +252,8 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 ![ipconfig part 1](images/pm5_cmd1.png)
 
 **Figure 15: ipconfig /all on Windows (part 2), IP and MAC addresses blurred for privacy**
-![ipconfig part 2](images/pm5_cmd2.png)
+
+<img width="1475" height="756" alt="image" src="https://github.com/user-attachments/assets/b81a1829-e169-419a-8f7b-081815124244" />
 
 **Figure 16: Zenmap Ping scan of 192.168.1.0/24**
 
