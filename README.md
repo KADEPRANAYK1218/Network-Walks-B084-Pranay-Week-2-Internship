@@ -238,7 +238,9 @@ Most importantly, I learned that reconnaissance and scanning must always stay wi
 
 
 **Figure 10: theHarvester search on microsoft.com with source baidu and limit 1000**
-![theHarvester baidu](images/pm4_baidu.png)
+
+
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/d85bbead-87b1-4951-8b0f-2038b84bd779" />
 
 **Figure 11: theHarvester search on microsoft.com with limit 50 and all sources (start)**
 ![theHarvester all sources 1](images/pm4_all1.png)
